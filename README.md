@@ -6,7 +6,6 @@ Aplikacja do losowania żartów i zarządzania ulubionymi żartami w formacie `.
 
 ## 🇵🇱 Instrukcja użycia
 
-[Pobierz RandomJoke](https://github.com/mat-jan/Random-Joke/raw/refs/heads/main/dist/Random_Joke.exe)
 
 ### Wymagania
 - Windows 7/10/11 (lub nowszy)
@@ -37,7 +36,6 @@ Aplikacja do losowania żartów i zarządzania ulubionymi żartami w formacie `.
 
 ## 🇬🇧 Usage Instructions
 
-[Download RandomJoke](https://github.com/mat-jan/Random-Joke/raw/refs/heads/main/dist/Random_Joke.exe)
 
 ### Requirements
 - Windows 7/10/11 (or newer)
